@@ -24,7 +24,7 @@
 </a>
 </p>
 <p align="center" dir="auto">
-  <img height="400" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/2b20a198-648d-421b-9617-5db1562d814f"/>
+  <img height="300" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/2b20a198-648d-421b-9617-5db1562d814f"/>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
