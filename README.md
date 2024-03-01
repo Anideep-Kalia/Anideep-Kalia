@@ -31,7 +31,7 @@
 
 ```yaml
 Name: Anideep Kalia
-Located_in: Ambala, Haryana
+Located_in: India
 Email: anideepkalia@gmail.com
 current_job: Full Stack Developer
 education:
