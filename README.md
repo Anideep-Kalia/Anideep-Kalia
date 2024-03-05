@@ -27,7 +27,7 @@
   <img height="300" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/2b20a198-648d-421b-9617-5db1562d814f"/>
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 Name: Anideep Kalia
