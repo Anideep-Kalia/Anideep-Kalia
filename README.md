@@ -4,7 +4,7 @@
 
   <h1 align="center" dir="auto">
   Let's Connect and have a Chat!💬
-  </h1>
+
 </p>
 <p align="center">
 <a href="https://www.instagram.com/anideepkalia/">
@@ -59,7 +59,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="45"/>
-  <img src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/35906dfc-c4cd-4b65-9ea8-898ebf95398e" alt="vscode" width="45" height="45"/>
+  <img src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/72b0187d-7b96-467f-8064-3881087cd67f" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
