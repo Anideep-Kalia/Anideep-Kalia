@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=175&&color=0:ff6a00,100:f720db&text=Hey,%20There&section=header&textBg=false&fontSize=50&fontColor=ffffff&animation=blink" />
 </p>
-<p align="center" dir="auto">
+
   <h1 align="center" dir="auto">
   Let's Connect and have a Chat!💬
   </h1>
@@ -59,6 +59,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/c4933538-7c04-4341-beb1-3cbce3f923d9" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
