@@ -2,31 +2,35 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=175&&color=0:ff6a00,100:f720db&text=Hey,%20There&section=header&textBg=false&fontSize=50&fontColor=ffffff&animation=blink" />
 </p>
 
-  <h1 align="center" dir="auto">
+<h1 align="center" dir="auto">
   Let's Connect and have a Chat!💬
+</h1>
 
 <p align="center">
-<a href="https://www.instagram.com/anideepkalia/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-<a href="www.linkedin.com/in/anideep-kalia-aa9ba0255">
-  <img height="50" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/9a87749a-e3a7-4473-93ef-e72d92a83e49.png"/>
-</a>
-<a href="https://portfolio-46aef.web.app/">
-  <img height="50" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/79cc77e9-20d0-4c9f-a176-30307a72e180.png"/>
-</a>
-<a href="mailto:anideepkalia@gmail.com">
-  <img height="50" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/be471614-a967-4f90-90f7-b7c971f3c12b.png"/>
-</a>
-<a href="https://twitter.com/AnideepKalia">
-  <img height="50" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/dbbe609c-0217-4323-9087-5aee82f53b1c.png"/>
-</a>
-</p>
-<p align="center" dir="auto">
-  <img height="300" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/2b20a198-648d-421b-9617-5db1562d814f"/>
+  <a href="https://www.instagram.com/anideepkalia/">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anideep-kalia-aa9ba0255">
+    <img height="50" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/9a87749a-e3a7-4473-93ef-e72d92a83e49.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-46aef.web.app/">
+    <img height="50" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/79cc77e9-20d0-4c9f-a176-30307a72e180.png" alt="Portfolio"/>
+  </a>
+  <a href="mailto:anideepkalia@gmail.com">
+    <img height="50" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/be471614-a967-4f90-90f7-b7c971f3c12b.png" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/AnideepKalia">
+    <img height="50" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/dbbe609c-0217-4323-9087-5aee82f53b1c.png" alt="Twitter"/>
+  </a>
 </p>
 
-<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;A Little Bit About Me and My Interests</h2>
+<p align="center" dir="auto">
+  <img height="300" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/2b20a198-648d-421b-9617-5db1562d814f" alt="Profile Image"/>
+</p>
+
+<h2>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;A Little Bit About Me and My Interests
+</h2>
 
 ```yaml
 Name: Anideep Kalia
