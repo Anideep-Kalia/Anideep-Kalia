@@ -36,11 +36,11 @@
 Name: Anideep Kalia
 Located_in: India
 Email: anideepkalia@gmail.com
-current_job: Full Stack Developer
+current_job: Full Stack Developer and DevOps Engineer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Bachelor's in Electronics and Communication",
+    "Bachelor of Technology",
   ]
 
 fields_of_interests:
@@ -52,8 +52,8 @@ fields_of_interests:
     "DevOps",
   ]
   
-currently_learning: ["Docker, Kubernetes, and Web3"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+currently_learning: ["Go, Rust and Web3"]
+2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
   
