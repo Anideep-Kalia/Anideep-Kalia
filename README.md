@@ -19,7 +19,7 @@
   <a href="mailto:anideepkalia@gmail.com">
     <img height="50" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/be471614-a967-4f90-90f7-b7c971f3c12b.png" alt="Email"/>
   </a>
-  <a href="https://twitter.com/AnideepKalia">
+  <a href="https://twitter.com/kaffeine_coder">
     <img height="50" src="https://github.com/Anideep-Kalia/Anideep-Kalia/assets/128630418/dbbe609c-0217-4323-9087-5aee82f53b1c.png" alt="Twitter"/>
   </a>
 </p>
@@ -34,7 +34,7 @@
 
 ```yaml
 Name: Anideep Kalia
-Located_in: India
+Located_in: Delulu
 Email: anideepkalia@gmail.com
 current_job: Full Stack Developer and DevOps Engineer
 education:
@@ -50,6 +50,7 @@ fields_of_interests:
     "UI/UX",
     "Android Development",
     "DevOps",
+    "Image Processing"
   ]
   
 currently_learning: ["Go, Rust and Web3"]
